@@ -1,11 +1,19 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Base Styles",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Logo",
+          "slug": "logo"
+        },
+        {
+          "title": "Colors",
+          "slug": "colors"
+        },
+        {
+          "title": "Fonts",
+          "slug": "fonts"
         }
       ]
     },
