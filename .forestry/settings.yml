@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: src/assets/scss/config
+  path: src/assets/scss
   label: Config
   create: all
   match: "**/*"
-  new_doc_ext: ".scss"
+  new_doc_ext: scss
 - type: directory
   path: ''
   label: Styles
